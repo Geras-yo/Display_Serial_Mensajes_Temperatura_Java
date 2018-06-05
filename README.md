@@ -3,8 +3,8 @@
 - Castillo Hernández Gerardo.
 _________________________________________________________________________________________
 ## Material Utilizado:
-/n pantalla lcd 16x2
-/n placa protoboard
+#pantalla lcd 16x2
+#placa protoboard
 arduino uno
 cable usb de arduino
 potenciometro
